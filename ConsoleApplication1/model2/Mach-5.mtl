@@ -1,0 +1,109 @@
+newmtl default_mach5
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/sr2b.jpg
+
+newmtl default_interiors_interiors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.286275 0.282353 0.254902
+Ks 1 1 1
+Km 0
+map_Kd /Maps/dfg1.jpg
+
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/al12.jpg
+
+newmtl default_mach5_with_interiors
+d 0.8
+Ns 0.75
+Ni 0
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_headlights
+d 1
+Ns 1
+Ni 0
+Ka 0 1 1
+Kd 0 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/radio_dial_02.jpg
+
+newmtl default_brakelights
+d 1
+Ns 1
+Ni 0
+Ka 1 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+map_Kd /Maps/radio_dial_02.jpg
+
+newmtl default_door1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/dl2.jpg
+
+newmtl default_door2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/dl1.jpg
+
+newmtl default_interiors
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/a1s1.jpg
+
+newmtl default_tires
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.286275 0.282353 0.254902
+Ks 1 1 1
+Km 0
+map_Kd /Maps/xgb4.jpg
+
+newmtl default_metal_parts
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd /Maps/ASG10-DIFF.jpg
+
